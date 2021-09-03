@@ -1,5 +1,5 @@
 body{
-    background:url('https://i.pinimg.com/originals/bd/48/34/bd48343a75a39849fd076874c169abf0.jpg') center center no-repeat;
+    background:url('https://static.vecteezy.com/system/resources/previews/002/211/572/non_2x/treasure-island-scene-at-daytime-with-pirate-kids-free-vector.jpg') center center no-repeat;
     background-size: cover;
     height: 100vh;
 }
@@ -38,11 +38,12 @@ header{
 
 header h1{
     font-weight: bolder;
-    color: rgb(75, 10, 228);
+    color: rgb(228, 10, 28);
+    font-size: 2.3rem;
 }
 
 header p{
-    color: rgb(75, 10, 228);
-    font-size: 1.4;
+    color: rgb(25, 10, 228);
+    font-size: 1.2rem;
     font-weight: bolder;
 }
